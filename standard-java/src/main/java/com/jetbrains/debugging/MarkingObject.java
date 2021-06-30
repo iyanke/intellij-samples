@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class MarkingObject {
 
-
     public static void main(String[] args) {
 
         ArrayList<String> cars = new ArrayList<>();
@@ -25,3 +24,5 @@ public class MarkingObject {
         }
     }
 }
+
+
