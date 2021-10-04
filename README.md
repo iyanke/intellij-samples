@@ -1,6 +1,6 @@
 [![official project](http://jb.gg/badges/official-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-# IntelliJ IDEA Samples for Tips and Tricks, Features, etc.
+# IndtelliJ IDEA Samples for Tips and Tricks, Features, etc.
 
 
 This repository contains code that demonstrates IntelliJIDEA features. The classes and methods are largely named after the functionality that they're supposed to demonstrate.  This code can be updated or added to as features in IntelliJ IDEA are added or updated.
